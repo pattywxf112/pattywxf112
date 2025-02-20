@@ -36,4 +36,4 @@ Patient with both friends and enemies,
 you accord with the way things are.
 Compassionate towards yourself,
 you reconcile all beings in the world.”
-<h1 style="border:2px solid Violet;">― Lao Tzu, Tao Te Ching Chapter 67</h1>
+<h3 style="border:2px solid Violet;">― Lao Tzu, Tao Te Ching Chapter 67</h3>
