@@ -26,3 +26,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+Don't let academic takes away all the fun..
+
+“Simplicity, patience, compassion.
+These three are your greatest treasures.
+Simple in actions and thoughts, you return to the source of being.
+Patient with both friends and enemies,
+you accord with the way things are.
+Compassionate towards yourself,
+you reconcile all beings in the world.”
+― Lao Tzu, Tao Te Ching Chapter 67
