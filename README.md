@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 I'm Patty</h1>
 <h3 align="left">I studied Software Engineering major at Faculty of ICT, Mahidol University</h3>
 
-<h3 align="left">against the odds..</h3>
+<h3 align="left">against the odds....</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
