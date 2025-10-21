@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 I'm Patty</h1>
-<h3 align="center">Software Engineering</h3>
+<h3 align="center">I studied Software Engineering major</h3>
 <h4 align="left">Faculty of ICT, Mahidol University</h4>
 
 <h3 align="left">against the odds..</h3>
