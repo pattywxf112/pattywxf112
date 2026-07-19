@@ -27,3 +27,5 @@ Programming Languages
 Development Tools
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /> </p>
+
+<img width="600" height="400" alt="chen_qianyu_30k_ascii" src="https://github.com/user-attachments/assets/101a11f2-6cbe-4a06-b472-65d167854892" />
