@@ -29,6 +29,6 @@ Development Tools
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /> </p>
 
 ---
-## Animated ASCII Chen Qianyu 30K from Arknights: Endfield
+## Animated ASCII Chen Qianyu 30K from Arknights: Endfield 明日方舟：終末地
 <img width="960" height="539" alt="chen_qianyu_30k_ascii" src="https://github.com/user-attachments/assets/94541787-f66a-4abf-a4f2-460ad6d6e064" />
 
