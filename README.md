@@ -11,7 +11,7 @@ Compassionate towards yourself,
 you reconcile all beings in the world.”
 <h5 style="border:2px solid Violet;">― Lao Tzu, Tao Te Ching Chapter 67</h5>
 
-🛠️ Technology Stack
+Technology Stack
 Frontend Development
 
 <p> <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,tailwind" /> </p>
@@ -27,3 +27,23 @@ Programming Languages
 Development Tools
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /> </p>
+
+📊 Business Analysis & Project Skills
+
+<p align="center">
+
+
+
+
+
+
+
+
+</p>
+
+Requirements Gathering     Business Process Analysis
+BRD / SRS Documentation    User Stories & Acceptance Criteria
+UAT Planning               Meeting Minutes
+Stakeholder Communication  Agile & Scrum Ceremonies
+System Flow Design         C4 Architecture Modeling
+Wireframing                Usability Testing
