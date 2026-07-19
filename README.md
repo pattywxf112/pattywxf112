@@ -32,13 +32,6 @@ Development Tools
 
 <p align="center">
 
-
-
-
-
-
-
-
 </p>
 
 Requirements Gathering     Business Process Analysis
@@ -47,3 +40,19 @@ UAT Planning               Meeting Minutes
 Stakeholder Communication  Agile & Scrum Ceremonies
 System Flow Design         C4 Architecture Modeling
 Wireframing                Usability Testing
+
+📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+
+</div>
