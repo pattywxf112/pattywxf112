@@ -27,16 +27,3 @@ Programming Languages
 Development Tools
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" /> </p>
-
-📊 Business Analysis & Project Skills
-
-<p align="center">
-
-</p>
-
-Requirements Gathering     Business Process Analysis
-BRD / SRS Documentation    User Stories & Acceptance Criteria
-UAT Planning               Meeting Minutes
-Stakeholder Communication  Agile & Scrum Ceremonies
-System Flow Design         C4 Architecture Modeling
-Wireframing                Usability Testing
